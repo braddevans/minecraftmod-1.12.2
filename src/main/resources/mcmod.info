@@ -1,0 +1,18 @@
+[
+	{
+		"modid": "testmod",
+		"name": "Testmod",
+		"description": "a mod",
+		"version": "${version}",
+		"mcversion": "${mcversion}",
+		"url": "piratescode.co.uk",
+		"updateUrl": "anal.com",
+		"authorList": [
+			"braddevans"
+		],
+		"credits": "a",
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": []
+	}
+]
